@@ -1,4 +1,4 @@
 <?php
 
 
-echo "‚±‚ñ‚É‚¿‚ÍI‚Í‚Ü‚¿[‚¾‚æI";
+echo "Hello !! Watashi ha Hamachii Da Yo !!";
