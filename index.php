@@ -2,3 +2,4 @@
 
 
 echo "Ç±ÇÒÇ…ÇøÇÌÅIHello !! Watashi ha Hamachii Da Yo !!";
+echo mb_convert_encoding("Ç±ÇÒÇ…ÇøÇÌÅIHello !! Watashi ha Hamachii Da Yo !!", "UTF-8", "SJIS").PHP_EOL;
