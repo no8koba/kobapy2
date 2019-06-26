@@ -1,7 +1,7 @@
 <?php
 
 
-echo "Hello !! Watashi ha Hamachii Da Yo !!";
+echo "こんにちわ！Hello !! Watashi ha Hamachii Da Yo !!";
 
 $str = "オリジナル";
 
