@@ -1,3 +1,8 @@
+<?php
+
+
+echo "Hello !! Watashi ha Hamachii Da Yo !!";
+
 $str = "オリジナル";
 
 //①文字コードを変換して保存してみよう！
